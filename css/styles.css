@@ -73,6 +73,14 @@ nav a {
     background: #444483;
 }
 
+#not10 {
+    position: absolute;
+    width: 25px;
+    height: 23.62px;
+    left: 865px;
+    top: 30px;
+}
+
 /* HERO */
 .background {
     background-image: url(../img/Path.svg);
@@ -359,6 +367,22 @@ nav a {
     font-size: 24px;
     line-height: 32px;
     letter-spacing: -0.2px;
+}
+
+#point-line2 {
+    position: absolute;
+    width: 200px;
+    height: 16px;
+    left: 201px;
+    top: 1753px;
+}
+
+#lineActive {
+    position: absolute;
+    width: 24px;
+    height: 4px;
+    left: 49px;
+    top: 1763px;
 }
 
 /* SERVICES */
@@ -817,6 +841,22 @@ nav a {
     color: var(--color-secondary1-shade);
 }
 
+#setaButton {
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    left: 950px;
+    top: 5150px;
+}
+
+#viewButton {
+    position: absolute;
+    width: 65px;
+    height: 72px;
+    left: 485px;
+    top: 5350px;
+}
+
 /* CTA */
 #backCta {
     position: relative;
@@ -891,6 +931,14 @@ nav a {
     background: var(--color-accent3-shade);
     color: var(--color-light);
     cursor: pointer; 
+}
+
+#logoNV {
+    position: absolute;
+    width: 35px;
+    height: 40px;
+    left: 200px;
+    top: 8029px;
 }
 
 /* JOBS */
